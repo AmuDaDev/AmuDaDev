@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Amu Nkombyani! 👋
 
-#### I speak JAVA | I hear SQL | I can C# I don't wear 👓 | I dream in PHP | HTML is my playground | semicolon (;) only thing capable of breaking my heart
+#### I speak JAVA - I hear SQL - I can C# I don't wear 👓 - I dream in PHP - HTML is my playground - semicolon (;) only thing capable of breaking my heart!
 
 <!--
 **AmuDaDev/AmuDaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
